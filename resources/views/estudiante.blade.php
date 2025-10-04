@@ -6,8 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="{{route('bienvenidos') }}">saludos</a>
-    <br>
-    <a href="{{ route('bienvenidos') }}">bienvenidos</a>
+     <h1>hola soy nuevo estudiante</h1>
+    
 </body>
 </html>
